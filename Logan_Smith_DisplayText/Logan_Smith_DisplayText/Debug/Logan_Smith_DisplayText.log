@@ -1,0 +1,5 @@
+﻿  Logan_Smith_DisplayText.cpp
+c:\users\234006\desktop\compsci\logan_smith_displaytext\logan_smith_displaytext\logan_smith_displaytext.cpp(25): warning C4305: 'initializing': truncation from 'int' to 'char'
+c:\users\234006\desktop\compsci\logan_smith_displaytext\logan_smith_displaytext\logan_smith_displaytext.cpp(25): warning C4309: 'initializing': truncation of constant value
+  Logan_Smith_DisplayText.vcxproj -> C:\Users\234006\Desktop\CompSci\Logan_Smith_DisplayText\Debug\Logan_Smith_DisplayText.exe
+  Logan_Smith_DisplayText.vcxproj -> C:\Users\234006\Desktop\CompSci\Logan_Smith_DisplayText\Debug\Logan_Smith_DisplayText.pdb (Partial PDB)
